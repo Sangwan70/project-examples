@@ -36,7 +36,7 @@ and then copy the content of the example's Jenkinsfile into the *Script* text-ar
 In the job configuration:
 * Set *Definition* to *Pipeline script from SCM*.
 * Set *SCM* to *Git*.
-* Set *Repository URL* to *https://github.com/jfrog/project-examples.git*
+* Set *Repository URL* to *https://github.com/Sangwan70/project-examples.git*
 * Set *Script Path* to the relative path to the example's Jenkinsfile. For example, to run the [maven-example](declarative-examples/maven-example/Jenkinsfile) set *Script Path* to *jenkins-examples/pipeline-examples/declarative-examples/maven-example/Jenkinsfile* 
 
 ### Available Examples
